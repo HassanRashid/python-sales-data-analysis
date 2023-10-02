@@ -26,9 +26,13 @@ The data set includes 12 months' worth of sales data, which contains hundreds of
 **Python libraries used**
 
 - Pandas
+  
 - Matplotlib.pyplot
+
 - Matplotlib.ticker
+
 - Counter
+
 - Combinations
 
 ### Tasks completed to answer each business question
@@ -71,3 +75,25 @@ The data set includes 12 months' worth of sales data, which contains hundreds of
      - Determine correlation between price and quantity ordered to answer "why"
      - Plot Price as a secondary y-axis to visualize correlation
      - Format charts to configure colors and label padding
+
+## Results
+
+- What was the best month for sales? How much was earned that month?
+    - December, $46m
+
+- What city sold the most products?
+    - San Fransisco, CA, $80m
+
+- What time should ads be displayed to maximize the likelihood of customers buying products?
+    - Around 12pm and 7pm (decision lag not taken into account)
+
+- What combination of products are most often sold together?
+    - iPhone and Lightning Charging Cable (1005 times)
+    - Google Phone and USB-C Charging Cable (987 times)
+    - iPhone and Wired Headphones (447 times)
+
+- What product sold the most and why?
+    - AAA/AA Batteries
+    - USB-C Charging Cable
+    - Lightning Charging Cable
+    - Correlation between price and quantity ordered shows that products with a lower price (AAA batteries, for example) sold more quantities as opposed to products with higher prices (LG washing machine, for example)
