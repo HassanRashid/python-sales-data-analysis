@@ -1,4 +1,4 @@
-# Analyzing sales data using Python pandas and matplotlib
+## Analyzing sales data using Python pandas and matplotlib
 Analyzing sales data in Jupyter Notebook using Python, pandas and matplotlib.
 
 ## Scenario
