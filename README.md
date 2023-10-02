@@ -31,11 +31,15 @@ The data set includes 12 months' worth of sales data, which contains hundreds of
 
 - Matplotlib.ticker
 
-- Counter
+- Itertools (Combinations)
 
-- Combinations
+- Collections (Counter)
 
 ### Tasks completed to answer each business question
+
+**Setup**
+
+- Merge .CSV files together (187,000 rows of data)
 
 **Data cleaning**
 
