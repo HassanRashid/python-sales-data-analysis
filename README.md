@@ -1,6 +1,8 @@
 ## Analyzing sales data using Python pandas and matplotlib
 Analyzing sales data in Jupyter Notebook using Python, pandas and matplotlib.
 
+Output: https://github.com/HassanRashid/python-sales-data-analysis/blob/main/Sales_Analysis.ipynb
+
 ## Scenario
 
 **Data set**
